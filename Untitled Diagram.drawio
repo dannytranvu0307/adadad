@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T06:40:29.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.1" etag="0WgQW09L5PP9J0fb0L8F" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T07:02:27.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aB6F3ZyoCmXMveb2rX5x" version="21.2.1" type="github">
   <diagram name="Page-1" id="WRWBNZSNK3DnkSAMxgOC">
-    <mxGraphModel>
+    <mxGraphModel dx="1077" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="650" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--5" value="&lt;b&gt;お客様&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="230" width="99" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="420" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-japan2x.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--8" value="&lt;b&gt;VTI JAPAN&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-488/128/6-128.png" vertex="1" parent="1">
+          <mxGeometry x="358" y="260" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--10" value="&lt;b&gt;Leader 　&lt;br&gt;Front-end 担当者&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="331.5" y="285" width="116" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/office-icon-set-3/128/users.png" vertex="1" parent="1">
+          <mxGeometry x="153.5" y="300" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--13" value="&lt;b&gt;開発チーム&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--16" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="366.5" width="33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--18" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.user;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--19" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.user;" vertex="1" parent="1">
+          <mxGeometry x="610" y="355" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.user;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--21" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.user;" vertex="1" parent="1">
+          <mxGeometry x="530" y="355" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--23" value="&lt;b&gt;Back-end 担当者&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="413" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="360" width="60.5" height="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--31" value="" style="swimlane;startSize=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="316.5" y="250.25" width="131" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.63;dx=8;" vertex="1" parent="Ku6rBs2knAlkUpcu9Uj--31">
+          <mxGeometry x="120" y="99" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6rBs2knAlkUpcu9Uj--43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Ku6rBs2knAlkUpcu9Uj--31">
+          <mxGeometry x="60.25" y="89.75" width="10.5" height="20.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
