@@ -7,7 +7,7 @@
         <mxCell id="mKJkyVKC09SvjjCj3tg8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-1" target="mKJkyVKC09SvjjCj3tg8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-1" value="開始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-1" value="&lt;b&gt;開始&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mKJkyVKC09SvjjCj3tg8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-2" target="mKJkyVKC09SvjjCj3tg8-4">
@@ -16,7 +16,7 @@
         <mxCell id="mKJkyVKC09SvjjCj3tg8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-2" target="mKJkyVKC09SvjjCj3tg8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-2" value="登録済" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-2" value="&lt;b&gt;登録済&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mKJkyVKC09SvjjCj3tg8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-4" target="mKJkyVKC09SvjjCj3tg8-21">
@@ -28,19 +28,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-4" value="ログイン" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-4" value="&lt;b&gt;ログイン&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mKJkyVKC09SvjjCj3tg8-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-6" target="mKJkyVKC09SvjjCj3tg8-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-6" value="登録" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-6" value="&lt;b&gt;登録&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mKJkyVKC09SvjjCj3tg8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-13" target="mKJkyVKC09SvjjCj3tg8-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-13" value="メール認証" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-13" value="&lt;b&gt;メール認証&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mKJkyVKC09SvjjCj3tg8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-15" target="mKJkyVKC09SvjjCj3tg8-4">
@@ -52,12 +52,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-15" value="アカウントアクティブ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-15" value="&lt;b&gt;アカウントアクティブ&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mKJkyVKC09SvjjCj3tg8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-21" target="mKJkyVKC09SvjjCj3tg8-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="450" />
+              <mxPoint x="170" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mKJkyVKC09SvjjCj3tg8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-21" target="mKJkyVKC09SvjjCj3tg8-25">
@@ -65,14 +69,26 @@
             <mxPoint x="440" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-21" value="ホームページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-21" target="mKJkyVKC09SvjjCj3tg8-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="450" />
+              <mxPoint x="680" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-21" value="&lt;b&gt;ホームページ&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-23" value="アカウント情報" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-23" value="&lt;b&gt;アカウント情報&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="482" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mKJkyVKC09SvjjCj3tg8-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-25" value="&lt;b&gt;CONTENT PLAY&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-27" value="&lt;b&gt;FAVORITE LIST&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
