@@ -4,6 +4,54 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-1" target="mKJkyVKC09SvjjCj3tg8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-1" value="開始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-2" target="mKJkyVKC09SvjjCj3tg8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-2" target="mKJkyVKC09SvjjCj3tg8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-2" value="登録済" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-4" target="mKJkyVKC09SvjjCj3tg8-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="345" />
+              <mxPoint x="451" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-4" value="ログイン" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-6" target="mKJkyVKC09SvjjCj3tg8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-6" value="登録" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-13" target="mKJkyVKC09SvjjCj3tg8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-13" value="メール認証" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mKJkyVKC09SvjjCj3tg8-15" target="mKJkyVKC09SvjjCj3tg8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-15" value="アカウントアクティブ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mKJkyVKC09SvjjCj3tg8-19" value="ホームページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
